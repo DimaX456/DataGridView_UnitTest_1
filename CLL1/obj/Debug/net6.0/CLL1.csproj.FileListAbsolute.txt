@@ -1,0 +1,16 @@
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\bin\Debug\net6.0\CLL1.deps.json
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\bin\Debug\net6.0\CLL1.dll
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\bin\Debug\net6.0\CLL1.pdb
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\bin\Debug\net6.0\DataGridView1.exe
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\bin\Debug\net6.0\DataGridView1.pdb
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\bin\Debug\net6.0\DataGridView1.exe.config
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.AssemblyInfoInputs.cache
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.AssemblyInfo.cs
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.csproj.CopyComplete
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.dll
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\refint\CLL1.dll
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\CLL1.pdb
+C:\Users\slgwt\source\repos\DataGridView3\CLL1\obj\Debug\net6.0\ref\CLL1.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CLL1/1.0.0": {
+        "dependencies": {
+          "DataGridView1": "1.0.0"
+        },
+        "runtime": {
+          "CLL1.dll": {}
+        }
+      },
+      "DataGridView1/1.0.0": {
+        "runtime": {
+          "DataGridView1.exe": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CLL1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataGridView1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
